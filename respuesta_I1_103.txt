@@ -1,0 +1,12 @@
+Los participantes de este Trabajo Practico fueron: Axel Galo Romero Juarez y Matias Gomez Paratcha
+
+#Aclaracion: Para este TP, el equipo tiene solo 2 participantes
+
+===========
+Respuestas
+===========
+A - Se ven los datos que cargaron los demas participantes
+B - Si, los demas participantes lo ven
+C - 
+D -
+E -
