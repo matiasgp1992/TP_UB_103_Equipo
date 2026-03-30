@@ -7,6 +7,6 @@ Respuestas
 ===========
 A - Se ven los datos que cargaron los demas participantes
 B - Si, los demas participantes lo ven
-C - 
-D -
+C - Si, mis compañeros tambien ven los archivos agregados.
+D -En nuestro equipo de trabajo nos comunicamos a través de WhatsApp
 E -
